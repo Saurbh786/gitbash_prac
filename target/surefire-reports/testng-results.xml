@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-18T23:23:32 IST" name="Surefire suite" finished-at="2025-02-18T23:23:43 IST" duration-ms="11238">
+    <groups>
+    </groups>
+    <test started-at="2025-02-18T23:23:32 IST" name="Surefire test" finished-at="2025-02-18T23:23:43 IST" duration-ms="11238">
+      <class name="forMavenTest.CampaignTest">
+        <test-method signature="sampleTest()[pri:0, instance:forMavenTest.CampaignTest@38c5cc4c]" started-at="2025-02-18T23:23:32 IST" name="sampleTest" finished-at="2025-02-18T23:23:43 IST" duration-ms="11184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- forMavenTest.CampaignTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
